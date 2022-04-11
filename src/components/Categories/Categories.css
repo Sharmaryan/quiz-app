@@ -1,0 +1,12 @@
+.categories-cards {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.categories-heading {
+  width: 11rem;
+  margin: 0 auto;
+  padding: 1rem 0;
+  color: var(--primary-color);
+}
